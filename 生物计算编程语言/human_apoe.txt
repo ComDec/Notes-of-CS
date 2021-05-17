@@ -1,0 +1,60 @@
+APOE apolipoprotein E[Homo sapiens]
+Gene ID: 348, updated on 7-Mar-2021
+
+
+Reference GRCh38.p13 Primary Assembly NC_000019.10  from: 44905796 to: 44909393
+mRNA transcript variant 1 NM_001302688.2, 4 exons,  total annotated spliced exon length: 1248
+protein isoform a precursor NP_001289617.1, 4 coding  exons,  annotated AA length: 343
+
+Exon table for  mRNA  NM_001302688.2 and protein NP_001289617.1
+Genomic Interval Exon		Genomic Interval Coding		Gene Interval Exon		Gene Interval Coding		Exon Length	Coding Length	Intron Length
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+44905796-44905923		44905869-44905923		1-128		74-128		128		55		678
+44906602-44906667		44906602-44906667		807-872		807-872		66		66		1092
+44907760-44907952		44907760-44907952		1965-2157		1965-2157		193		193		580
+44908533-44909393		44908533-44909250		2738-3598		2738-3455		861		718
+
+mRNA transcript variant 5 NM_001302691.2, 4 exons,  total annotated spliced exon length: 1181
+protein isoform b precursor NP_001289620.1 (CCDS12647.1), 3 coding  exons,  annotated AA length: 317
+
+Exon table for  mRNA  NM_001302691.2 and protein NP_001289620.1
+Genomic Interval Exon		Genomic Interval Coding		Gene Interval Exon		Gene Interval Coding		Exon Length	Coding Length	Intron Length
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+44905796-44905841		1-46		46		745
+44906587-44906667		44906625-44906667		792-872		830-872		81		43		1092
+44907760-44907952		44907760-44907952		1965-2157		1965-2157		193		193		580
+44908533-44909393		44908533-44909250		2738-3598		2738-3455		861		718
+
+mRNA transcript variant 2 NM_000041.4, 4 exons,  total annotated spliced exon length: 1166
+protein isoform b precursor NP_000032.1 (CCDS12647.1), 3 coding  exons,  annotated AA length: 317
+
+Exon table for  mRNA  NM_000041.4 and protein NP_000032.1
+Genomic Interval Exon		Genomic Interval Coding		Gene Interval Exon		Gene Interval Coding		Exon Length	Coding Length	Intron Length
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+44905796-44905841		1-46		46		760
+44906602-44906667		44906625-44906667		807-872		830-872		66		43		1092
+44907760-44907952		44907760-44907952		1965-2157		1965-2157		193		193		580
+44908533-44909393		44908533-44909250		2738-3598		2738-3455		861		718
+
+mRNA transcript variant 3 NM_001302689.2, 4 exons,  total annotated spliced exon length: 1144
+protein isoform b precursor NP_001289618.1 (CCDS12647.1), 3 coding  exons,  annotated AA length: 317
+
+Exon table for  mRNA  NM_001302689.2 and protein NP_001289618.1
+Genomic Interval Exon		Genomic Interval Coding		Gene Interval Exon		Gene Interval Coding		Exon Length	Coding Length	Intron Length
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+44906021-44906044		226-249		24		557
+44906602-44906667		44906625-44906667		807-872		830-872		66		43		1092
+44907760-44907952		44907760-44907952		1965-2157		1965-2157		193		193		580
+44908533-44909393		44908533-44909250		2738-3598		2738-3455		861		718
+
+mRNA transcript variant 4 NM_001302690.2, 4 exons,  total annotated spliced exon length: 1244
+protein isoform b precursor NP_001289619.1 (CCDS12647.1), 3 coding  exons,  annotated AA length: 317
+
+Exon table for  mRNA  NM_001302690.2 and protein NP_001289619.1
+Genomic Interval Exon		Genomic Interval Coding		Gene Interval Exon		Gene Interval Coding		Exon Length	Coding Length	Intron Length
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+44906401-44906524		606-729		124		77
+44906602-44906667		44906625-44906667		807-872		830-872		66		43		1092
+44907760-44907952		44907760-44907952		1965-2157		1965-2157		193		193		580
+44908533-44909393		44908533-44909250		2738-3598		2738-3455		861		718
+
